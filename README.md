@@ -2,7 +2,8 @@
 <h1> Hello World, I'm Maksim</h1>
 
 </div>
-[![ Kaliuzhniuk Maksym profile views](https://u8views.com/api/v1/github/profiles/180563440/views/day-week-month-total-count.svg)](https://u8views.com/github/mak7chek)
+<a href="https://u8views.com/github/mak7chek"><img src="https://u8views.com/api/v1/github/profiles/180563440/views/day-week-month-total-count.svg"></a>
+
 ### About Me :
 
  I`m a student of software engineering in college.
