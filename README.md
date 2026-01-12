@@ -2,9 +2,9 @@
 <h1> Hello World, I'm Maksim</h1>
 
 </div>
-
+[![ Kaliuzhniuk Maksym profile views](https://u8views.com/api/v1/github/profiles/180563440/views/day-week-month-total-count.svg)](https://u8views.com/github/mak7chek)
 ### About Me :
-![d](https://visitor-badge.laobi.icu/badge?page_id=mak7chek)
+
  I`m a student of software engineering in college.
 Full Stack Developer |  Passionate Software Engineer.
 ### Languages :
