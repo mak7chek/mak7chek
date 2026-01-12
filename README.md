@@ -1,11 +1,10 @@
 <div id="header" align="center">
-![d](https://visitor-badge.laobi.icu/badge?page_id=mak7chek)
-
 <h1> Hello World, I'm Maksim</h1>
 
 </div>
-  
+
 ### About Me :
+![d](https://visitor-badge.laobi.icu/badge?page_id=mak7chek)
  I`m a student of software engineering in college.
 Full Stack Developer |  Passionate Software Engineer.
 ### Languages :
