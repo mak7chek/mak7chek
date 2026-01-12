@@ -1,8 +1,7 @@
 <div id="header" align="center">
+![d](https://visitor-badge.laobi.icu/badge?page_id=mak7chek)
 
-<img src="./assets/github.png" width="100"/>
-
-<h1>Hey there, I'm Maksim</h1>
+<h1> Hello World, I'm Maksim</h1>
 
 </div>
   
